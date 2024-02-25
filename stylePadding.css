@@ -6,7 +6,7 @@ h2{
     text-align: center;
 }
 
-,box{
+.box{
     background: blue;
     height: 200px;
     width : 300px;
